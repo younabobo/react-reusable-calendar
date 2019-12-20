@@ -24,5 +24,6 @@ module.exports = {
     'react', 'jest'
   ],
   rules: {
+    "linebreak-style": "Windows"
   },
 };
